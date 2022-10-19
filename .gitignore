@@ -1,0 +1,11 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+media/
+*.mp3
+*.mp4
+
+__pycache__
+*.pyc
